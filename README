@@ -1,0 +1,3 @@
+PackWord can compress a Microsoft Word document (.doc) file into a smaller, compressed, .doc file. The compressed .doc file is self-extracting and will automatically expand to the original version.
+
+Require Borland C++ Builder 4 & Visual C++.
